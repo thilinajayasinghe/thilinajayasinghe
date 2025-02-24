@@ -1,20 +1,40 @@
-## 👋 Hi, welcome to my GitHub profile. I’m **Thilina Jayasinghe**
+# 👋 Hi, I'm Thilina  
 
-### 🌱 I’m currently pursuing a Software Engineering degree which is solidifying my understanding of core programming concepts like algorithms, data structures, web application design, development and software design principles. 
-### 👀 I’m interested in:
- 
-◍ _Building user-friendly and efficient applications._
+### 🚀 Software Engineering Undergraduate | Frontend & Full-Stack Developer  
 
-◍ _Web development with React.js, Next.js, Angular for frontend and node.js, Spring Boot, FastAPI and php for backend._
+Inspired by the power of tech to solve real-world problems—currently focusing on **React.js, Next.js, TailwindCSS, and full-stack development**. I love building user-friendly, efficient, and scalable applications.  
 
-◍ _Application development with Python, Java._
+---
 
-◍ _Machine learning and AI, cloud computing as well as cloud native development._
+## 🔥 What I Work With  
 
-### 💞️ I’m looking to collaborate on real-world software development projects, particularly web applications, desktop applications and other IT projects that can enhance my skills and contribute to the developer community.
- 
-### 📫 Reach me:
-🔗[LinkedIn](www.linkedin.com/in/thilina-jayasinghe-43a4a5292)
+### 💻 Frontend  
+- ⚡ **React.js | Next.js | Angular (basic)**
+- 🎨 **TailwindCSS | CSS | Bootstrap**  
+
+### 🛠 Backend  
+- 🚀 **Node.js (Express.js) | PHP (basic) | FastAPI | Spring Boot**  
+- 💾 **MongoDB | MySQL | Firebase (basic)**  
+
+### 🧠 Other Interests  
+- 🤖 **Machine Learning & AI**  
+- ☁️ **Cloud Computing & Cloud-Native Development**  
+
+---
+
+## 💡 What I’m Looking For  
+- 👥 **Collaborations** on real-world projects, web apps, and IT solutions.  
+- 🎯 Open to contributing to **open-source** and learning new technologies.  
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/thilina-jayasinghe-43a4a5292)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]([your-github-url](https://github.com/thilinajayasinghe))  
+
+---
+
+💡 _"Striving to build impactful software solutions while constantly learning and growing."_  
 
 <!---
 thilinajayasinghe/thilinajayasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
