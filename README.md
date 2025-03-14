@@ -32,9 +32,20 @@ Inspired by the power of tech to solve real-world problems—currently focusing 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/thilina-jayasinghe-43a4a5292)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]([your-github-url](https://github.com/thilinajayasinghe))  
 
----
+## 📈 GitHub Analytics  
 
-💡 _"Striving to build impactful software solutions while constantly learning and growing."_  
+<p align="center">
+  <a href="https://github.com/thilinajayasinghe">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thilinajayasinghe&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilinajayasinghe&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thilinajayasinghe">
+    <img src="https://streak-stats.demolab.com/?user=thilinajayasinghe&theme=radical" alt="GitHub Streak"/>
+  </a>
+</p>
 
 <!---
 thilinajayasinghe/thilinajayasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
