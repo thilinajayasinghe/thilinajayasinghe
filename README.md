@@ -29,7 +29,7 @@ Inspired by the power of tech to solve real-world problems—currently focusing 
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/thilina-jayasinghe-43a4a5292)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/thilina-jay)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]([your-github-url](https://github.com/thilinajayasinghe))  
 
 ## 📈 GitHub Analytics  
